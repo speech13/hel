@@ -6,6 +6,7 @@ class Hello:
         self.a =3 
     def fun(self):
         print(self.a)
+        print(self.a)
 
 hell = Hello()
 hell.fun()
